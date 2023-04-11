@@ -20,12 +20,6 @@ Commands
   npm start
 ```
     
-## Stack utilizada
-
-**Front-end:** React.js
-
-**Back-end:** .Net API
-
 
 ## Rodando os testes
 
